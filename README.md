@@ -11,12 +11,12 @@
 
 
 ### Credits / Resources
-<p> Project coded by Henry Addison with help from ChatGPT. Cited usages include:
-- script.js lines 60-71; used here to find the right commands
-- script.js lines 109-125; used to help forumlate an idea, specifically: how to spawn obstacles far enough away to assure player car could still fit through
-- index.html lines 8-9; used to find correct formatting needed to link .js and .css files
-- instructions.html line 8; used to find correct formatting needed to link .css file
-</p>
+<p> Project coded by Henry Addison with help from ChatGPT. Cited usages include: </p>
+<p>- script.js lines 60-71; used here to find the right commands </p>
+<p>- script.js lines 109-125; used to help forumlate an idea, specifically: how to spawn obstacles far enough away to assure player car could still fit through </p>
+<p>- index.html lines 8-9; used to find correct formatting needed to link .js and .css files </p>
+<p>- instructions.html line 8; used to find correct formatting needed to link .css file </p>
+
 
 ### Video Link
 
