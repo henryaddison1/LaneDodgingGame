@@ -1,4 +1,5 @@
 ## LaneDodgingGame
+### Game Description 
 <p> The user enters their name and clicks "Okay" to start. The goal of the game is to avoid the incoming obstacles by switching lanes. The left and right arrow keys can be used to switch lanes. As the user's score increases, the obstacles come faster making the game exponentially more challenging. When the user's car collides with an obstacle, they are displayed their score and informed to "Press space to play again." If confused, the user can access instructions through a "How to Play" link at the bottom of the page. </p>
 
 ### File Structure
@@ -17,4 +18,8 @@
 - instructions.html line 8; used to find correct formatting needed to link .css file
 </p>
 
-### Screenshot / Video
+### Video Link
+
+
+### Screenshot
+![Game Screenshot](Screenshot 2025-06-07 161340.png)
