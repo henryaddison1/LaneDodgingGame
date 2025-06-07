@@ -22,4 +22,4 @@
 
 
 ### Screenshot
-![Game Screenshot](Screenshot 2025-06-07 161340.png)
+![Game Screenshot](main/Screenshot 2025-06-07 161340.png)
