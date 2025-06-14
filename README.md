@@ -17,6 +17,8 @@
 <p>- index.html lines 8-9; used to find correct formatting needed to link .js and .css files </p>
 <p>- instructions.html line 8; used to find correct formatting needed to link .css file </p>
 
+### Game Link
+<p> https://henryaddison1.github.io/LaneDodgingGame/</p>
 
 ### Video Link
 <p> https://drive.google.com/file/d/1fMkhY_wv0eXu4rpfA-RelMvOpNO2wQ2S/view?usp=drive_link</p>
